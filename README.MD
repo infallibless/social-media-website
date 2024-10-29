@@ -5,11 +5,11 @@ Welcome to the **Social Media Platform** project! This application allows users 
 
 ## 📸 Screenshots
 
-![Page](https://imgur.com/39EhVUG)
+![Page](https://cdn.discordapp.com/attachments/1289933054676303894/1300872614914556055/image.png?ex=67226b88&is=67211a08&hm=ce76d40800eeff7e4a2b4069576142542f0140d80e0dec645b4c570603ef0867&)
 
-![Page](https://imgur.com/seUIDAu)
+![Page](https://cdn.discordapp.com/attachments/1289933054676303894/1300872665879548017/image.png?ex=67226b94&is=67211a14&hm=66771eb75b76ba26aad46f31a4e2d8a189216466039e5d8ff2a2f90daf2a5bf7&)
 
-![Page](https://imgur.com/ELWhUDK)
+![Page](https://cdn.discordapp.com/attachments/1289933054676303894/1300872768367366164/image.png?ex=67226bad&is=67211a2d&hm=7c3b71fec4b4ffb4224b0a4c570fa9a7cb6ee78cec63842e3107a23d49c725af&)
 
 ## 📋 Table of Contents
 
