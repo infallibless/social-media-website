@@ -43,7 +43,7 @@ Welcome to the **Social Media Platform** project! This application allows users 
 1. Clone the repository:
    ```bash
    git clone https://github.com/infallibless/social-media-website.git
-   cd your-social-media-project
+   cd social-media-website
    ```
 
 2. Install dependencies:
