@@ -77,22 +77,6 @@ After installing and running the app, you can:
 3. Connect with other users, create posts, and leave comments.
 4. Explore trending topics through the search and discover features.
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Make your changes.
-4. Commit and push:
-   ```bash
-   git commit -m "Add your message"
-   git push origin feature/YourFeature
-   ```
-5. Open a pull request.
-
 ## 📜 Copyright
 
 © 2024 raynex. All rights reserved.
